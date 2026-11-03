@@ -1,0 +1,7 @@
+{
+  "name": "CYBER SHIELD - AI-Based Phishing URL Checker",
+  "description": "Production-grade BCA final-year cybersecurity web application featuring intelligent rule-based phishing detection, real-time threat analysis, user/admin portals, dynamic analytics, and XAMPP/MySQL deployment architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
